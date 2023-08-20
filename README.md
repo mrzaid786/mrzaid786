@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Zaid Khan</h1>
-<h3 align="center">A passionate data analysit from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 - 📫 How to reach me **mdzaidk786@gmail.com**
 
