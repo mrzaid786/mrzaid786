@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Data Analyst from India<br>
+Data Analyst from India<br>
 
 
 ## 🌐 Socials:
